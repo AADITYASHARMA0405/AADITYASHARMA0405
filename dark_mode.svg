@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="570px" font-size="16px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.name {fill: #7ee787;}
+.sep {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="570px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">MWWW8888%%%%%%%%8Mak*#Lxj-'!hB@kJUcXW$@B     <tspan class="name">aaditya</tspan><tspan class="sep">@</tspan><tspan class="name">sharma</tspan><tspan class="sep"> ————————————————————————————————————————</tspan></tspan>
+<tspan x="15" y="50">WWW888888%%%%%8Woo8B8M#88oqdWB@aJXYM$@B@     <tspan class="sep">—————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="15" y="70">W88888888%%%MM88M#@$B8BBB@@BW#*hUJW$@@@B     <tspan class="sep">. </tspan><tspan class="key">OS:</tspan><tspan class="sep"> ............... </tspan><tspan class="value">Windows 11, Ubuntu Linux</tspan></tspan>
+<tspan x="15" y="90">8888%8%88%Wa*8%MMBB%@@%B%@@@B8hwJM$@@@8w     <tspan class="sep">. </tspan><tspan class="key">Uptime:</tspan><tspan class="sep"> ................. </tspan><tspan class="value">20 years, 4 months</tspan></tspan>
+<tspan x="15" y="110">%%%%%%%%W*ha#%@%WBM*@@%@B$@%%W*kQd%@$Wkb     <tspan class="sep">. </tspan><tspan class="key">Host:</tspan><tspan class="sep"> ...................... </tspan><tspan class="value">RVCE, Bengaluru</tspan></tspan>
+<tspan x="15" y="130">B%%%%%%Mhdbh#@@%%8B@$@$$$@%W%#hobL*@#kao     <tspan class="sep">. </tspan><tspan class="key">Kernel:</tspan><tspan class="sep"> ....... </tspan><tspan class="value">CS (Artificial Intelligence)</tspan></tspan>
+<tspan x="15" y="150">qmO000QO*aWW%@B%@$$@@$$$BWW##kabpCd%ddwd     <tspan class="sep">. </tspan><tspan class="key">IDE:</tspan><tspan class="sep"> .... </tspan><tspan class="value">VSCode, IntelliJ, PyCharm, Jupyter</tspan></tspan>
+<tspan x="15" y="170">oahkbbbbMB@$$@@88%8Mo#MM#*abdOmmzXh8bwmq     </tspan>
+<tspan x="15" y="190">ZQJmZYYYqB$$$$%*kbppppb*aohwvt|UzvbMkZOm     <tspan class="sep">. </tspan><tspan class="key">Languages.Programming:</tspan><tspan class="sep"> .. </tspan><tspan class="value">C, Python, Java, JavaScript</tspan></tspan>
+<tspan x="15" y="210">LYuQUxxxcpB$@B%M*abqmmm0mO0Jvt[pZxw*hOLQ     <tspan class="sep">. </tspan><tspan class="key">Languages.Markup:</tspan><tspan class="sep"> .. </tspan><tspan class="value">HTML5, CSS3, LaTeX, YAML</tspan></tspan>
+<tspan x="15" y="230">Yu/Jr|tftCM@oa*ao#88#k0czLqqOu)hqr0koQJU     <tspan class="sep">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="sep"> ............. </tspan><tspan class="value">English, Hindi</tspan></tspan>
+<tspan x="15" y="250">Yr]f-}tjcCk*QOpooWqkM*wn(0op|[]WdrCp*LYU     </tspan>
+<tspan x="15" y="270">Lz|r?|cUCLwmXUUC0LJ0ppLr~[xt?~iWonYm*0QL     <tspan class="sep">. </tspan><tspan class="key">Hobbies.Software:</tspan><tspan class="sep"> .. </tspan><tspan class="value">AI/ML, Full-Stack, App Dev</tspan></tspan>
+<tspan x="15" y="290">ZQJOuXJL00CmzQJcunvJmZCc+^_[]i!MMzXp#qJc     <tspan class="sep">. </tspan><tspan class="key">Hobbies.Hardware:</tspan><tspan class="sep"> .. </tspan><tspan class="value">Robotics, IoT, Automation</tspan></tspan>
+<tspan x="15" y="310">UUUpzzzXYYYJuQZQYczZdZmU1_}[-I|%%Jc0oZvu     </tspan>
+<tspan x="15" y="330">Zz)CUJJCLQQ00C0OQJJ0mdqv{}}[~~voBQvLkpuv     <tspan class="sep">- </tspan><tspan class="key">Contact</tspan><tspan class="sep"> ———————————————————————————————————————</tspan></tspan>
+<tspan x="15" y="350">Jn}X{ffncczzrfJQ00ZmwqLYj))~Ifcd$wXLpavc     <tspan class="sep">. </tspan><tspan class="key">Email:</tspan><tspan class="sep"> ............. </tspan><tspan class="value">aaditya040518@gmail.com</tspan></tspan>
+<tspan x="15" y="370">^.,t      .^,]ULL0ZqbwQXxft+l~-/tttfCazz     <tspan class="sep">. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="sep"> ...................... </tspan><tspan class="value">aaditya0405</tspan></tspan>
+<tspan x="15" y="390">:^;f^''+]+}|(tQOQQmwmOCYu{_-~I)[-i{_+-_(     <tspan class="sep">. </tspan><tspan class="key">GitHub:</tspan><tspan class="sep"> .................. </tspan><tspan class="value">AADITYASHARMA0405</tspan></tspan>
+<tspan x="15" y="410">t|/x_{]txfrtx|cwqmZwZQXx(+i|I+f_(?{(?l'i     </tspan>
+<tspan x="15" y="430">}-+!+)-|/xf1x//rCwpwOQXfi;[1,?f+f/}rt-]?     <tspan class="sep">- </tspan><tspan class="key">GitHub Stats</tspan><tspan class="sep"> ——————————————————————————————————</tspan></tspan>
+<tspan x="15" y="450">!!+li]i]11)}|))11(/|1?l^I~f_:1)~fj|/r}{-        <tspan class="key">Repos:</tspan><tspan class="sep"> .... </tspan><tspan class="value">16</tspan><tspan class="sep">  |  </tspan><tspan class="key">Stars:</tspan><tspan class="sep"> ......... </tspan><tspan class="value">2</tspan></tspan>
+<tspan x="15" y="470">!i++;_il}-][[)+++?]-~!l--]x:!/?~ttx)j{{|        <tspan class="key">Followers:</tspan><tspan class="sep"> .. </tspan><tspan class="value">5</tspan><tspan class="sep">  |  </tspan><tspan class="key">Following:</tspan><tspan class="sep"> ..... </tspan><tspan class="value">9</tspan></tspan>
+<tspan x="15" y="490">il-[,!~:_]l_-1-;;l~+~_}[Ij(^_/+i/(nf|(]v     </tspan>
+<tspan x="15" y="510">                                             <tspan class="sep">. </tspan><tspan class="key">CGPA:</tspan><tspan class="sep"> ......................... </tspan><tspan class="value">9.18 / 10.00</tspan></tspan>
+<tspan x="15" y="530">                                             <tspan class="sep">. </tspan><tspan class="key">LeetCode:</tspan><tspan class="sep"> ............. </tspan><tspan class="value">100+ Problems Solved</tspan></tspan>
+</text>
+</svg>
